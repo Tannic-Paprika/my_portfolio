@@ -1,26 +1,27 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "Smartwatch",
+    "imageSrc": "project1.png",
+    "description": " Built a web interface to show stress levels in real time after ML processing of health vitals from an IoT device.",
+    "skills": ["Flask", "JWT", "PyTorch","Firebase","IoT"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/Tannic-Paprika/Titan_hackathon"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "title": "ClearDrive",
+    "imageSrc": "gallery.jpg",
+    "description": " A website which shows the most safest roads during poor visibility conditions to prevent accidents.",
+    "skills": ["Flask", "OpenCV", "MongoDB", "LeafletJS","React"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://gitlab.com/car612709/air-visibility-index"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "Financer",
+    "imageSrc": "project.png",
+    "description": "This repository is for users to interact and track ther finance records,payment tracking and financial advice",
+    "skills": ["Django", "OAuth", "OpenAI", "JavaScript","MYSQL"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/Tannic-Paprika/FJ-BE-R2-RajPattnaik-NIT-Rourkela"
   }
+  
 ]

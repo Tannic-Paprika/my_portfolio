@@ -1,28 +1,28 @@
 [
   {
-    "role": "Software Engineer",
-    "organisation": "Google",
-    "startDate": "Sept, 2022",
-    "endDate": "Present",
-    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
+    "role": "FullStack Engineer Intern",
+    "organisation": "NeuralSpace Inc.",
+    "startDate": "June, 2024",
+    "endDate": "August, 2024",
+    "experiences": ["Developed the Adjust feature similar to the Subtitle Editor app in Linux", "Quickened the build file of LocAI frontend by 85%"],
     "imageSrc": "history/google.png"
   },
   {
-    "role": "UI Designer",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2021",
-    "endDate": "Aug, 2022",
-    "experiences": ["Worked on Windows 11", "Designed the control panel"],
+    "role": "Software Engineer Intern",
+    "organisation": "Hyperspec.AI",
+    "startDate": "Sept, 2023",
+    "endDate": "April, 2024",
+    "experiences": ["Developed the HMI, or the human-machine interface", "This interface handled real-time requests from the device used for data visualization and manipulation"],
     "imageSrc": "history/microsoft.png"
   },
   {
-    "role": "SWE Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2020",
-    "endDate": "Jun, 2020",
+    "role": "UG Intern",
+    "organisation": "I-Hub DivyaSampark",
+    "startDate": "Oct, 2022",
+    "endDate": "August, 2023",
     "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
+      "Built a prototype to measure the speed of upcoming vehicles and generate centralized data for over-speeding of vehicles",
+      "Their number plate was detected using the ANPR technique"
     ],
     "imageSrc": "history/netflix.png"
   }

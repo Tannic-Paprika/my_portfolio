@@ -4,7 +4,7 @@
   position: relative;
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: space-around; /* Change from space-between to space-around */
   margin-top: 49px;
   z-index: 1;
   margin-left: 10%;
